@@ -1,87 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: James Eckstein's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# James Eckstein
+Engineering Physics Major
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+`August 2021 - Now`
+__University of Illinois at Champaign Urbana__
+- Studying Engineering Physics - 4.0 GPA
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`August 2018 - December 2020`
+__University of Utah__ 
+- Studied Applied Math and Physics - 3.73 GPA
 
 
+## Experience
+`January 2021 - Now`
+__Research Assistant__
+- Analyzed and developed various algorithms to trace grain boundaries in images of polycrystalline grain structures
+- Adapted and optimized existing convolutional neural networks for this application
+- Under the guidance of Prof. Yekaterina Epshteyn (University of Utah, Applied Math), Prof. Katayun Barmak (Columbia, Applied Physics and Applied Math), and Prof. Stacey Levine (Duquesne, Math)
 
-## Awards
+`Spring 2020`
+__Funded Applied Math REU__ 
+- Developed a numerical algorithm for processing data from images of polycrystalline grain structures 
+- Under the mentorship of Prof. Yekaterina Epstheyn (University of Utah, Math)
 
-`2012`
-President, *Royal Society*, London, UK
+`July 2019`
+__University of Illinois Materials Research Lab__ 
+- Collaborated with others to assemble and optimize a sub-Kelvin refrigerator with a cryogenic cooling unit
+- Updated and maintained existing data-gathering software written in Labview
 
-Associate, *French Academy of Science*, Paris, France
+
+### Skills
+
+- Proficient with Python, C++, MATLAB, UNIX shell, Vim, and Labview 2019
+- Experienced with Autodesk Fusion360 CAD, 3d printing, laser cutting, and soldering
 
 
+### Classes
 
-## Publications
+- __Quantum Mechanics 1 (Physics 486)__ Received A
+- __Electromagnetic Fields 1 (Physics 435)__ Received A+
+- __Relativity and Math Applications (Physics 225)__ Received A+
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- ### Research interests
 
-### Journals
+Quantum computing, fundamental quantum mechanics, image processing
+-->
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2021`
+[Modular armor](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11112218.PN.&OS=PN/11112218&RS=PN/11112218), Patent 11,112,218
 
 
 <!-- ### Footer
