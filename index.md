@@ -33,7 +33,7 @@ __Funded Applied Math REU__
 
 `July 2019`
 __University of Illinois Materials Research Lab__ 
-- Collaborated with others to assemble and optimize a sub-Kelvin refrigerator with a cryogenic cooling unit
+- Collaborated with others to debug and optimize a sub-Kelvin refrigerator with a cryogenic cooling unit
 - Updated and maintained existing data-gathering software written in Labview
 
 
