@@ -48,6 +48,7 @@ __University of Illinois Materials Research Lab__
 - __Quantum Mechanics 1 (Physics 486)__ Received A
 - __Electromagnetic Fields 1 (Physics 435)__ Received A+
 - __Relativity and Math Applications (Physics 225)__ Received A+
+- __Classical Mechanics (Physics 325 Equivalent)__ Received A
 
 <!-- ### Research interests
 
