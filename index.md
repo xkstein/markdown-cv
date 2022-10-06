@@ -6,13 +6,14 @@ title: James Eckstein's Resume
 Engineering Physics Major
 
 <div id="webaddress">
+<a href="jameske2@illinois.edu">jameske2@illinois.edu</a>
 </div>
 
 
 ## Education
 `August 2021 - Now`
 __University of Illinois at Champaign Urbana__
-- Studying Engineering Physics - 4.0 GPA
+- Studying Engineering Physics - 3.84 GPA
 
 `August 2018 - December 2020`
 __University of Utah__ 
@@ -20,11 +21,17 @@ __University of Utah__
 
 
 ## Experience
-`January 2021 - Now`
+`January 2022 - Present`
 __Research Assistant__
-- Analyzed and developed various algorithms to trace grain boundaries in images of polycrystalline grain structures
+- Developed software to monitor and control the vacuum system housing an ion trap
+- Tested optics and fabricated instruments for use in the trapped ion quantum computer
+- Under the guidance of Prof. Brian DeMarco (University of Illinois at Champaign-Urbana, Physics)
+
+`January 2021 - May 2022`
+__Research Assistant__
+- Analyzed and developed algorithms to trace grain boundaries in images of polycrystalline grain structures
 - Adapted and optimized existing convolutional neural networks for this application
-- Under the guidance of Prof. Yekaterina Epshteyn (University of Utah, Applied Math), Prof. Katayun Barmak (Columbia, Applied Physics and Applied Math), and Prof. Stacey Levine (Duquesne, Math)
+- Under the guidance of Prof. Katayun Barmak (Columbia, Applied Physics and Applied Math), Prof. Stacey Levine (Duquesne, Math), and Prof. Yekaterina Epshteyn (University of Utah, Applied Math)
 
 `Spring 2020`
 __Funded Applied Math REU__ 
@@ -33,7 +40,7 @@ __Funded Applied Math REU__
 
 `July 2019`
 __University of Illinois Materials Research Lab__ 
-- Collaborated with others to assemble and optimize a sub-Kelvin refrigerator with a cryogenic cooling unit
+- Collaborated with others to debug and optimize a sub-Kelvin refrigerator with a cryogenic cooling unit
 - Updated and maintained existing data-gathering software written in Labview
 
 
@@ -43,17 +50,18 @@ __University of Illinois Materials Research Lab__
 - Experienced with Autodesk Fusion360 CAD, 3d printing, laser cutting, and soldering
 
 
+<!--
 ### Classes
 
 - __Quantum Mechanics 1 (Physics 486)__ Received A
 - __Electromagnetic Fields 1 (Physics 435)__ Received A+
 - __Relativity and Math Applications (Physics 225)__ Received A+
 - __Classical Mechanics (Physics 325 Equivalent)__ Received A
+-->
 
-<!-- ### Research interests
+### Research interests
 
 Quantum computing, fundamental quantum mechanics, image processing
--->
 
 
 ### Patents
