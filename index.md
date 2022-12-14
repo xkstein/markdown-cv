@@ -6,7 +6,7 @@ title: James Eckstein's Resume
 Engineering Physics Major
 
 <div id="webaddress">
-<a href="jameske2@illinois.edu">jameske2@illinois.edu</a>
+<a href="jamie.k.eckstein@gmail.com">jamie.k.eckstein@gmail.com</a>
 </div>
 
 
@@ -43,32 +43,25 @@ __University of Illinois Materials Research Lab__
 - Collaborated with others to debug and optimize a sub-Kelvin refrigerator with a cryogenic cooling unit
 - Updated and maintained existing data-gathering software written in Labview
 
+## Publications
 
-### Skills
-
-- Proficient with Python, C++, MATLAB, UNIX shell, Vim, and Labview 2019
-- Experienced with Autodesk Fusion360 CAD, 3d printing, laser cutting, and soldering
-
-
-<!--
-### Classes
-
-- __Quantum Mechanics 1 (Physics 486)__ Received A
-- __Electromagnetic Fields 1 (Physics 435)__ Received A+
-- __Relativity and Math Applications (Physics 225)__ Received A+
-- __Classical Mechanics (Physics 325 Equivalent)__ Received A
--->
-
-### Research interests
-
-Quantum computing, fundamental quantum mechanics, image processing
-
+`2022`
+K. Barmak, J. K. Eckstein, J. R. Lopez, S. Toderas, A. J. Ma, M. J. Patrick, and S. Levine. "Automated Grain Boundary Detection in Bright-Field Transmission Electron Microscopy Images via U-Net", Microscopy and Microanalysis, submitted for publication.
 
 ### Patents
 
 `2021`
 [Modular armor](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11112218.PN.&OS=PN/11112218&RS=PN/11112218), Patent 11,112,218
 
+### Research interests
+
+Quantum computing, fundamental quantum mechanics, image processing
+
+
+### Skills
+
+- Proficient with Python, C++, MATLAB, UNIX shell, Vim, and Labview 2019
+- Experienced with Autodesk Fusion360 CAD, 3d printing, laser cutting, and soldering
 
 <!-- ### Footer
 
