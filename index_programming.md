@@ -29,19 +29,14 @@ __Research Assistant__
 
 `January 2021 - May 2022`
 __Research Assistant__
-- Analyzed and developed algorithms to trace grain boundaries in images of polycrystalline grain structures
-- Adapted and optimized existing convolutional neural networks for this application
+- Adapted and optimized existing convolutional neural networks for tracing grain boundaries in images of polycrystalline grain structures
+- Built tools to overcome specific image processing challenges
 - Under the guidance of Prof. Katayun Barmak (Columbia, Applied Physics and Applied Math), Prof. Stacey Levine (Duquesne, Math), and Prof. Yekaterina Epshteyn (University of Utah, Applied Math)
 
 `Spring 2020`
 __Funded Applied Math REU__ 
 - Developed a numerical algorithm for processing data from images of polycrystalline grain structures 
 - Under the mentorship of Prof. Yekaterina Epstheyn (University of Utah, Math)
-
-`July 2019`
-__University of Illinois Materials Research Lab__ 
-- Collaborated with others to debug and optimize a sub-Kelvin refrigerator with a cryogenic cooling unit
-- Updated and maintained existing data-gathering software written in Labview
 
 ## Publications
 
@@ -53,15 +48,10 @@ K. Barmak, J. K. Eckstein, J. R. Lopez, S. Toderas, A. J. Ma, M. J. Patrick, and
 `2021`
 [Modular armor](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11112218.PN.&OS=PN/11112218&RS=PN/11112218), Patent 11,112,218
 
-### Research interests
-
-Quantum computing, fundamental quantum mechanics, image processing
-
-
 ### Skills
 
 - Proficient with Python, C++, MATLAB, UNIX shell, Vim, and Labview 2019
-- Experienced with Autodesk Fusion360 CAD, 3d printing, laser cutting, and soldering
+- Experienced with Autodesk Fusion360 CAD, 3d printing, laser cutting, Arduino, and soldering
 
 <!-- ### Footer
 
