@@ -2,6 +2,14 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+:root {
+	/* --accent: #F0A8A8; */
+	--accent: #C28888;
+	--body: #353535;
+	--date: #aaa;
+	--bg: #EDEDED;
+	--offset: 22%;
+}
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -59,11 +67,13 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	color: var(--body);
+	background-color: var(--bg);
 }
 
 p {
 	position: relative;
-	left: 25%;
+	left: var(--offset);
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
@@ -72,9 +82,8 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: var(--date);
 }
 
 p code {
@@ -83,10 +92,27 @@ p code {
 	right: -20%;
 }
 
+pre {
+	font: normal normal;
+	font-size: 90%;
+	/*line-height: 1em;*/
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	color: var(--date);
+
+	height: 0;
+	position: relative;
+	text-align: right;
+	width: 20%;
+	left: 0%;
+}
+
+p:has(> br):not(:has(:not(br))) {
+	margin: 0;
+}
 
 ul {
 	position: relative;
-	left: 25%;
+	left: var(--offset);
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
@@ -124,23 +150,32 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: var(--offset);
+	font-weight: bold;
 }
 
-h1+p {
+h1 + p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+}
+
+p:has(+ #webaddress) {
+	margin-bottom: 0;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
-	margin-top: 3em;
+	font-weight: bold;
+	color: var(--accent);
+	margin-top: 1em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
 	width: 20%;
+}
+
+h2 + ul {
+	margin-top: 0;
 }
 
 h3 {
@@ -162,10 +197,9 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
 	position: relative;
-	left: 25%;
-	color: #bc412b;
+	left: var(--offset);
+	color: var(--accent);
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
