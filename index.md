@@ -9,9 +9,6 @@ Engineering Physics Major
 <a href="jamie.k.eckstein@gmail.com">jamie.k.eckstein@gmail.com</a>
 </div>
 
-## Looking For
-A position conducting computational physics research
-
 ## Education
 <br/>
 <pre>Aug 2021&#8211;<br />May 2023 </pre>
