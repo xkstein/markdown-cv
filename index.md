@@ -17,7 +17,7 @@ __Columbia University__, New York
 
 <pre>Aug 2021&#8211;<br />May 2023 </pre>
 __University of Illinois at Urbana-Champaign__, Illinois
-- Bachelor of Science in Engineering Physics - 3.84 GPA
+- Bachelor of Science in Engineering Physics - 3.87 GPA
 
 <pre>Aug 2018&#8211;<br />Dec 2020 </pre>
 __University of Utah__, Salt Lake City, Utah
