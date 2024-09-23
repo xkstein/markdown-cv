@@ -3,7 +3,7 @@ layout: cv
 title: James Eckstein's Resume
 ---
 # JAMES ECKSTEIN
-Engineering Physics Major
+Applied Physics PhD Student
 
 <div id="webaddress">
 <a href="jamie.k.eckstein@gmail.com">jamie.k.eckstein@gmail.com</a>
@@ -11,6 +11,10 @@ Engineering Physics Major
 
 ## Education
 <br/>
+<pre>Aug 2023&#8211;<br />Present </pre>
+__Columbia University__, New York
+- PhD student in the Department of Applied Physics and Applied Math
+
 <pre>Aug 2021&#8211;<br />May 2023 </pre>
 __University of Illinois at Urbana-Champaign__, Illinois
 - Bachelor of Science in Engineering Physics - 3.84 GPA
@@ -21,27 +25,34 @@ __University of Utah__, Salt Lake City, Utah
 
 ## Experience
 <br/>
-<pre>Jan 2022&#8211;<br />Present </pre>
+<pre>May 2024&#8211;<br />Present </pre>
+__Graduate Research Assistant__
+- Designing and testing photonic chip based frequency combs
+- Working with lasers and optical fibers
+- Under the guidance of Prof. Alexander Gaeta (Columbia University, APAM)
+
+<pre>Jan 2022&#8211;<br />May 2023 </pre>
 __Research Assistant__
-- Developed software to monitor and control the vacuum system housing an ion trap
-- Tested optics and fabricated instruments for use in the trapped ion quantum computer
+- Tested optics and fabricated instruments for a trapped ion quantum computer
+- Developed telemetry pipeline to monitor and control a quantum computer
 - Under the guidance of Prof. Brian DeMarco (University of Illinois at Urbana-Champaign, Physics)
 
 <pre>Jan 2021&#8211;<br />May 2022 </pre>
 __Research Assistant__
-- Developed algorithms to trace grain boundaries in images of polycrystalline grain structures
-- Adapted and optimized existing convolutional neural networks for this application
+- Used convolutional neural networks to trace grain boundaries in images of polycrystalline grain structures
 - Under the guidance of Prof. Katayun Barmak (Columbia, Applied Physics and Applied Math), Prof. Stacey Levine (Duquesne, Math), and Prof. Yekaterina Epshteyn (University of Utah, Applied Math)
 
 <pre>Spring 2020</pre>
 __Funded Applied Math REU__ 
-- Developed algorithms for processing data from images of polycrystalline grain structures 
+- Wrote code to extract data from images of polycrystalline grain structures 
 - Under the mentorship of Prof. Yekaterina Epshteyn (University of Utah, Math)
 
+<!--
 <pre>Summer 2019</pre>
 __University of Illinois Materials Research Lab__ 
 - Collaborated with others to assemble a sub-Kelvin refrigerator with a cryogenic cooling unit
 - Updated and maintained existing data-gathering software written in Labview
+-->
 
 ## Publications
 <br/>
