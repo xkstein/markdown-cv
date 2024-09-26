@@ -56,8 +56,8 @@ __University of Illinois Materials Research Lab__
 
 ## Publications
 <br/>
-<pre>2022</pre>
-K. Barmak, J. K. Eckstein, J. R. Lopez, S. Toderas, A. J. Ma, M. J. Patrick, and S. Levine. "Automated Grain Boundary Detection in Bright-Field Transmission Electron Microscopy Images via U-Net", Microscopy and Microanalysis, submitted for publication.
+<pre>2023</pre>
+Matthew J. Patrick, James K. Eckstein, Javier R. Lopez, Silvia Toderas, Sarah A. Asher, Sylvia I. Whang, Stacey Levine, Jeffrey M. Rickman, Katayun Barmak, “Automated grain boundary detection for bright-field transmission electron microscopy images via U-Net”, Microscopy and Microanalysis 29, 1968-1979 (2023). DOI: 10.1093/micmic/ozad115
 
 ## Patents
 <br/>
@@ -72,5 +72,3 @@ K. Barmak, J. K. Eckstein, J. R. Lopez, S. Toderas, A. J. Ma, M. J. Patrick, and
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
